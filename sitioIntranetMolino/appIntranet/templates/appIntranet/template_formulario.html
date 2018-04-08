@@ -1,0 +1,55 @@
+
+
+
+<div class="table-responsive">
+    <table class="table">
+        <tr>
+            <td>Número de Móvil<br/>{{form.datos_movil}}<br/><div class="col has-errors text-danger small">{{ form.datos_movil.errors }}</div></td>
+            <td>test</td>
+            <td align="right">Número de Vale<br/>{{form.correlativo}}</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>
+                <div class="table-responsive">
+                    <table class="table table-bordered">
+                        <tr>
+                            <td>Periodo de Facturación</td>
+                            <td>{{ form.datoPeriodoFacturacion}}</td>
+                        </tr>
+                        <tr>
+                            <td>Cliente</td>
+                            <td>{{ form.cliente}}</td>
+                        </tr>
+                        <tr>
+                            <td>Tipo Vale<div class="col has-errors text-danger small">{{ form.tipo_Vale.errors }}</div></td>
+                            <td>{{ form.tipo_Vale}}</td>
+                        </tr>
+                        <tr>
+                            <td>Dirección de Origen<div class="col has-errors text-danger small">{{ form.direccion_origen.errors }}</div></td>
+                            <td>{{ form.direccion_origen}}</td>
+                        </tr>
+                        <tr>
+                            <td>Dirección de Destino<div class="col has-errors text-danger small">{{ form.direccion_destino.errors }}</div></td>
+                            <td>{{ form.direccion_destino}}</td>
+                        </tr>
+                        <tr>
+                            <td>Hora de llamado<div class="col has-errors text-danger small">{{ form.hora_llamado.errors }}</div></td>
+                            <td>{{ form.hora_llamado}}</td>
+                        </tr>
+                        <tr>
+                            <td>Valor<div class="col has-errors text-danger small">{{ form.valor.errors }}</div></td>
+                            <td>{{ form.valor}}</td>
+                        </tr>
+                        <tr>
+                            <td>Observaciones<div class="col has-errors text-danger small">{{ form.observacion.errors }}</div></td>
+                            <td>{{ form.observacion}}</td>
+                        </tr>
+                    </table>
+                </div>
+
+            </td>
+            <td></td>
+        </tr>
+    </table>
+</div>
