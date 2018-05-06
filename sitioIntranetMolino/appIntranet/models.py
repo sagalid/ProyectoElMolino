@@ -92,13 +92,13 @@ class Convenio(models.Model):
 
 class Talonario(models.Model):
     habilitado = models.BooleanField(default=True)
-    inicio_talonario = models.FloatField
-    fin_talonario = models.FloatField
-    numero_movil = models.ForeignKey(Movil, blank=True, null=True)
+    inicio_talonario = models.IntegerField(blank=False, default=1)
+    fin_talonario = models.IntegerField(blank=False, default=1)
+    movil = models.ForeignKey(Movil, blank=True, null=True)
     numero_convenio = models.ForeignKey(Convenio, blank=True, null=True)
 
     def __str__(self):
-        return u'%s %s' % (self.inicio_talonario, self.fin_talonario)
+        return u'%s %s %s %s %s %s' % ('Inicio: ', self.inicio_talonario, '|| Fin: ', self.fin_talonario, '|| Móvil: ', self.movil)
 
 
 class TipoVale(models.Model):
@@ -138,11 +138,13 @@ class Vale(models.Model):
     def __str__(self):
         return u'%s %s %s' % (self.correlativo, self.cliente, self.tipo_Vale)
 
-
+#Esta clase permite almacenar los vales asociados a un móvil.
+#es una estructura intermedia entre Vales y Radio Taxis.
+#La clase Talonario, ya contiene información del Móvil.
 class TalonarioVale(models.Model):
-    datos_talonario = models.ForeignKey(Talonario, blank=True, null=True)
-    datos_vale = models.ForeignKey(Vale, blank=True, null=True)
+    talonario = models.ForeignKey(Talonario)
+    vale = models.ForeignKey(Vale, blank=True, null=True)
     numero_vale = models.IntegerField(default=1)
 
     def __str__(self):
-        return u'%s' % str(self.numero_vale)
+        return u'%s %s %s' % (self.talonario, '|| Número usado: ', self.numero_vale)

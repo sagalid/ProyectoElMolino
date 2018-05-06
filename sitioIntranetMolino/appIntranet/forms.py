@@ -10,7 +10,6 @@ class ValeForm(forms.ModelForm):
     correlativo = forms.IntegerField(widget=forms.TextInput, initial=111111)
     correlativo.disabled = True
 
-
     hora_llamado = forms.DateField(
         widget=DatePicker(
             options={
