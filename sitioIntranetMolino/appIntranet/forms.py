@@ -32,3 +32,7 @@ class ValeForm(forms.ModelForm):
                   'observacion',
                   'responsable_ingreso',
                   'datoPeriodoFacturacion')
+
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.fields['city'].queryset = City.objects.none()
