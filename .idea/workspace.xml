@@ -2,195 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72b11b95-69c8-41b8-9378-a7978da7239d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/path.py-7.7.1.dist-info/DESCRIPTION.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip-9.0.3.dist-info/DESCRIPTION.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/path.py-7.7.1.dist-info/INSTALLER" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip-9.0.3.dist-info/INSTALLER" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/path.py-7.7.1.dist-info/METADATA" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip-9.0.3.dist-info/METADATA" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/path.py-7.7.1.dist-info/RECORD" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip-9.0.3.dist-info/RECORD" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/path.py-7.7.1.dist-info/WHEEL" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip-9.0.3.dist-info/WHEEL" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/certifi/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/cli/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/idna/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/backports/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/util/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/certifi/__main__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/__version__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/_collections.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/_internal_utils.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/appengine.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/big5freq.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/big5prober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/_securetransport/bindings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/certifi/cacert.pem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/cli/chardetect.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/chardistribution.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/charsetgroupprober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/charsetprober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/idna/codec.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/codingstatemachine.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/compat.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/idna/compat.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/connection.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/util/connection.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/connectionpool.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/certifi/core.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/idna/core.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/cp949prober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip-9.0.3.dist-info/entry_points.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/enums.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/escprober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/escsm.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/eucjpprober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/euckrfreq.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/euckrprober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/euctwfreq.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/euctwprober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/exceptions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/fields.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/filepost.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/gb2312freq.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/gb2312prober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/hebrewprober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/help.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/idna/idnadata.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/idna/intranges.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/jisfreq.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/jpcntx.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/langbulgarianmodel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/langcyrillicmodel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/langgreekmodel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/langhebrewmodel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/langhungarianmodel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/langthaimodel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/langturkishmodel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/latin1prober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/_securetransport/low_level.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/backports/makefile.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/mbcharsetprober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/mbcsgroupprober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/mbcssm.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/path.py-7.7.1.dist-info/metadata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip-9.0.3.dist-info/metadata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/ntlmpool.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/ordered_dict.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/idna/package_data.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/path.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/poolmanager.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/pyopenssl.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/request.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/util/request.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/response.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/util/response.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/util/retry.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/sbcharsetprober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/sbcsgroupprober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/securetransport.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/util/selectors.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/six.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/sjisprober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/socks.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/util/ssl_.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/test_path.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/util/timeout.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/path.py-7.7.1.dist-info/top_level.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip-9.0.3.dist-info/top_level.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/universaldetector.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/util/url.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/utf8prober.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/idna/uts46data.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/chardet/version.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/urllib3/util/wait.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip-9.0.1.dist-info/DESCRIPTION.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip-9.0.1.dist-info/INSTALLER" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip-9.0.1.dist-info/METADATA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip-9.0.1.dist-info/RECORD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip-9.0.1.dist-info/WHEEL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip-9.0.1.dist-info/entry_points.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip-9.0.1.dist-info/metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip-9.0.1.dist-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/big5freq.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/big5prober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/chardetect.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/chardistribution.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/charsetgroupprober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/charsetprober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/codingstatemachine.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/compat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/constants.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/cp949prober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/escprober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/escsm.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/eucjpprober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/euckrfreq.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/euckrprober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/euctwfreq.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/euctwprober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/gb2312freq.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/gb2312prober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/hebrewprober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/jisfreq.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/jpcntx.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langbulgarianmodel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langcyrillicmodel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langgreekmodel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langhebrewmodel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langhungarianmodel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langthaimodel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/latin1prober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/mbcharsetprober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/mbcsgroupprober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/mbcssm.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/sbcharsetprober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/sbcsgroupprober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/sjisprober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/universaldetector.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/utf8prober.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/_collections.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/connection.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/connectionpool.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/contrib/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/contrib/appengine.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/contrib/ntlmpool.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/contrib/pyopenssl.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/contrib/socks.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/exceptions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/fields.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/filepost.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/packages/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/packages/ordered_dict.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/packages/six.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/poolmanager.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/request.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/response.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/connection.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/request.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/response.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/retry.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/ssl_.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/timeout.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/url.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sitioIntranetMolino/db.sqlite3" afterPath="$PROJECT_DIR$/sitioIntranetMolino/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sitioIntranetMolino/appIntranet/forms.py" afterPath="$PROJECT_DIR$/sitioIntranetMolino/appIntranet/forms.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sitioIntranetMolino/appIntranet/models.py" afterPath="$PROJECT_DIR$/sitioIntranetMolino/appIntranet/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="envMolino.iws" />
@@ -233,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/sitioIntranetMolino/appIntranet/forms.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+              <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
               </folding>
@@ -244,9 +57,12 @@
       <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sitioIntranetMolino/appIntranet/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32451922">
-              <caret line="126" column="43" selection-start-line="126" selection-start-column="43" selection-end-line="126" selection-end-column="43" />
-              <folding />
+            <state vertical-scroll-proportion="0.5372751">
+              <caret line="145" column="54" selection-start-line="145" selection-start-column="54" selection-end-line="145" selection-end-column="54" />
+              <folding>
+                <marker date="1528423854943" expanded="true" signature="3839:3921" placeholder="..." />
+                <marker date="1528423854943" expanded="true" signature="6277:6294" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -310,6 +126,9 @@
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -323,7 +142,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -420,7 +239,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -642,13 +461,26 @@
       <option name="number" value="Default" />
       <updated>1512941739208</updated>
     </task>
+    <task id="LOCAL-00001" summary="agrego campo cliente a tabla vale">
+      <created>1527818201346</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1527818201347</updated>
+    </task>
+    <task id="LOCAL-00002" summary="agrego campo cliente a tabla vale">
+      <created>1527818356628</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1527818356628</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21903323" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22205438" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -656,9 +488,10 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32857144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36389685" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36389685" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -700,6 +533,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="agrego campo cliente a tabla vale" />
+    <option name="LAST_COMMIT_MESSAGE" value="agrego campo cliente a tabla vale" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1075,7 +912,7 @@
     <entry file="file://$PROJECT_DIR$/sitioIntranetMolino/appIntranet/forms.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
           </folding>
@@ -1084,9 +921,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sitioIntranetMolino/appIntranet/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32451922">
-          <caret line="126" column="43" selection-start-line="126" selection-start-column="43" selection-end-line="126" selection-end-column="43" />
-          <folding />
+        <state vertical-scroll-proportion="0.5372751">
+          <caret line="145" column="54" selection-start-line="145" selection-start-column="54" selection-end-line="145" selection-end-column="54" />
+          <folding>
+            <marker date="1528423854943" expanded="true" signature="3839:3921" placeholder="..." />
+            <marker date="1528423854943" expanded="true" signature="6277:6294" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>

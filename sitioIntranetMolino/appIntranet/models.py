@@ -143,7 +143,7 @@ class Vale(models.Model):
 #es una estructura intermedia entre Vales y Radio Taxis.
 #La clase Talonario, ya contiene información del Móvil.
 class TalonarioVale(models.Model):
-    talonario = models.ForeignKey(Talonario)
+    talonario = models.ForeignKey(Talonario, null=True)
     vale = models.ForeignKey(Vale, blank=True, null=True)
     numero_vale = models.IntegerField(default=1)
 
